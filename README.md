@@ -7,7 +7,7 @@
 
 
 
-<p align="center"><img src="https://img.shields.io/badge/DEAR%20MOTHER FUCKER-DON'T COPY MY STYLE-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+
 
  
 
